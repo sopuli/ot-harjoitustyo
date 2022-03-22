@@ -7,3 +7,7 @@
 [gitlog.txt](https://github.com/sopuli/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
 
 [komentorivi.txt](https://github.com/sopuli/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+
+
+
+*tehtävä 16*
