@@ -2,11 +2,11 @@
 
 ## Tehtävät
 
-### Viikko 1
+### Viikko 2
 
-[gitlog.txt](https://github.com/sopuli/ot-harjoitustyo/blob/master/laskarit/viikko1/gitlog.txt)
+[alustava vaatimusmäärittely](https://github.com/sopuli/ot-harjoitustyo/blob/master/dokumentaatio/alustava_maarittelydokumentti.md)
 
-[komentorivi.txt](https://github.com/sopuli/ot-harjoitustyo/blob/master/laskarit/viikko1/komentorivi.txt)
+[työaikakirjanpito](https://github.com/sopuli/ot-harjoitustyo/blob/master/dokumentaatio/tyoaikakirjanpito.md)
 
 
 
